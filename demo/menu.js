@@ -55,10 +55,10 @@ class Menu extends PolymerElement {
       <nav>
         <ul class="menu">
           <li><a href="index.html">Home</a></li>
-          <li><a href="catalogo.php">Catálogo</a></li>
+          <li><a href="#">Catálogo</a></li>
           <li><a href="#">Facturación</a></li>
-          <li><a href="nosotros.html">Nosotros</a></li>
-          <li><a href="login.html">LOGIN</a></li>
+          <li><a href="#">Nosotros</a></li>
+          <li><a href="#">LOGIN</a></li>
         </ul>
       </nav>`;
   }
